@@ -1,0 +1,12 @@
+[
+    {
+        "marca": "dell",
+        "memoria": "8gb",
+        "preco": 2000.0
+    },
+    {
+        "marca": "asus",
+        "memoria": "16gb",
+        "preco": 1900.0
+    }
+]
